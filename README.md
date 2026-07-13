@@ -1,7 +1,3 @@
-# releases
-
-Here's a professional README for a **public release repository** (e.g. `risksurface/risksurface-releases`). The goal is to make it clear that this repository is for **official binaries only**, not source code.
-
 # RiskSurface Releases
 
 Welcome to the **official release repository** for **RiskSurface**.
